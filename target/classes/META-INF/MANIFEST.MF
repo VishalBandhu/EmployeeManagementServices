@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: EmployeeManagementServices
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: M1046615
+Implementation-Vendor-Id: com.mindtree.training.employee
+Build-Jdk: 1.8.0_181
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/EmployeeManagementServices
+Created-By: Maven Integration for Eclipse
+
